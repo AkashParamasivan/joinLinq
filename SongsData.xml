@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Songs>
+	<sSong sID="101">
+		<sName>Oru Manam</sName>
+		<Composer>Harris Jeyaraj</Composer>
+	</sSong>
+	<sSong sID="102">
+		<sName>Rakita</sName>
+		<Composer>Sana</Composer>
+	</sSong>
+	<sSong sID="103">
+		<sName >Bujji</sName>
+		<Composer>Sana</Composer>
+	</sSong>
+	<sSong  sID="104">
+		<sName>Oh baby</sName>
+		<Composer>yuvan</Composer>
+	</sSong>
+	<sSong sID="105">
+		<sName>Vathi Coming</sName>
+		<Composer>Aniruth</Composer>
+	</sSong>
+</Songs>
